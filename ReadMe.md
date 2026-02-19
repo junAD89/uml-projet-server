@@ -1,3 +1,6 @@
+Pour utiliser le server
+vous
+
 pour se connecter a la base de donne on utilise
 
 # USE bibliotheque;
